@@ -1,0 +1,18 @@
+#mycanvas{
+    border-width: 10px;
+    border-style: double;
+    background-color: whitesmoke;
+}
+span{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+    color: aqua;
+}
+body{
+    text-align: center;
+    background-image:url( 'istockphoto-1398775819-612x612.jpg');
+    background-size: cover;
+    background-position: center;
+}
